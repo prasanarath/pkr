@@ -1,0 +1,25 @@
+.top{
+    background-color:rgba(0, 0, 0, 0.078);
+    padding-top:2px;
+    text-align: center;
+    padding-bottom: 2px;
+}
+.vk{
+    background: linear-gradient(to bottom, rgb(13, 0, 255), rgb(255, 0, 0), rgb(9, 23, 206));
+    display: inline;
+    border: 2px solid rgba(0, 0, 0, 0.553);
+
+}
+img{
+    width: 50%;
+    padding-left: 25%;
+    padding-right: 20%; 
+    padding-top: 10%;
+}
+.txt{
+    background-color: rgba(0, 0, 0, 0.093);
+    width: 80%;
+}
+.baap{
+    display: flex;
+}
